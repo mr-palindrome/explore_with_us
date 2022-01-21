@@ -1,10 +1,12 @@
 from django.urls import path
+
 from django.contrib import admin
 from . import views
 
 admin.site.site_header = "Explore With Us Portal"
 admin.site.site_title = "Welcome to Explore With Us Dashboard"
 admin.site.index_title = "Welcome to the Portal"
+
 urlpatterns = [
     # Path converters
     # int: numbers
