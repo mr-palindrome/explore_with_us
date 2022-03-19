@@ -19,7 +19,7 @@ invoke==1.6.0
 ipaddress==1.0.23
 Jinja2==3.0.3
 MarkupSafe==2.0.1
-paramiko==2.9.2
+paramiko==2.10.1
 pathlib2==2.3.6
 Pillow
 psycopg2
